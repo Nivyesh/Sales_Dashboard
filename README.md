@@ -182,7 +182,9 @@ The dashboard was designed to answer the following business questions:
 
 #### Dashboard Screenshot
 
-https://github.com/Nivyesh/Sales_Dashboard/blob/main/Sales-Dashboard.png
+## 📸 Dashboard Screenshot
+
+![Sales Summary Dashboard](dashboard.png)
 
 The dashboard provides an interactive view of:
 
