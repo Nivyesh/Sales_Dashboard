@@ -188,7 +188,7 @@ This type of insight can help management focus on high-performing categories and
 
 ## 📸 Dashboard Preview
 
-Sales-Dashboard.png
+https://github.com/Nivyesh/Sales_Dashboard/blob/main/Sales-Dashboard.png
 
 ---
 
