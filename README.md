@@ -201,9 +201,7 @@ The dashboard provides an interactive view of:
 https://github.com/Nivyesh/Sales_Dashboard/blob/main/Sales_Dashboard_Project.pbix
 
 **GitHub Repository:**
-[View Project Repository](YOUR_GITHUB_REPOSITORY_LINK)
-
-> **Note:** Replace `YOUR_POWER_BI_LINK` with your published Power BI report link and `YOUR_GITHUB_REPOSITORY_LINK` with your GitHub repository URL.
+[[View Project Repository](YOUR_GITHUB_REPOSITORY_LINK)](https://github.com/Nivyesh/Sales_Dashboard)
 
 ---
 
