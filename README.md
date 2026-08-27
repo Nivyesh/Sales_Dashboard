@@ -188,7 +188,7 @@ This type of insight can help management focus on high-performing categories and
 
 ## 📸 Dashboard Preview
 
-![Sales Summary Dashboard](dashboard.png)
+Sales-Dashboard.png
 
 ---
 
