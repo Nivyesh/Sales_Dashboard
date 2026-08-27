@@ -184,7 +184,7 @@ The dashboard was designed to answer the following business questions:
 
 ## 📸 Dashboard Screenshot
 
-![Sales Summary Dashboard](dashboard.png)
+![Sales_Dashboard](Sales-dashboard.png)
 
 The dashboard provides an interactive view of:
 
