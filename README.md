@@ -149,63 +149,77 @@ The dashboard also contains a detailed transaction-level table with:
 
 ---
 
-## 💡 6. Example with Problem & Solution
+## 💡 6. Example: Business Problem & Analysis
 
-### 🔴 Problem
+### 🔴 1. Business Problem
 
-A sales team has transaction data stored in raw files, making it difficult to quickly understand overall sales performance.
+The sales team has a large amount of transaction data containing information about orders, customers, regions, salespersons, categories, products, quantities, prices, and discounts.
 
-The team needs answers to questions such as:
+Analyzing this data manually makes it difficult and time-consuming to identify sales trends and understand business performance.
 
-* Which region generates the highest sales?
-* Which category contributes the most revenue?
-* Which products are performing well?
-* How many orders have been completed?
-* What is the impact of discounts?
-* How does performance change by month or region?
-
-Analyzing these questions manually using raw data can be **time-consuming and inefficient**.
-
-### 🟢 Solution
-
-I developed an interactive **Power BI Sales Summary Dashboard** that converts raw transaction data into meaningful visual insights.
-
-The dashboard provides:
-
-**Raw Sales Data → Data Cleaning → Data Modeling → DAX Calculations → Interactive Dashboard → Business Insights**
-
-Users can select filters and immediately analyze sales performance from different perspectives.
-
-### 📊 Example Business Insight
-
-Based on the dashboard:
-
-> **Electronics contributes the largest share of sales at 62.56%, while the East region records the highest regional sales at approximately 5.3M.**
-
-This type of insight can help management focus on high-performing categories and regions while identifying areas that may require improvement.
+The business needs an interactive reporting solution that can provide a quick overview of sales performance and allow users to drill down into specific regions, categories, products, and time periods.
 
 ---
 
-## 📸 Dashboard Preview
+### ❓ 2. Key Questions
+
+The dashboard was designed to answer the following business questions:
+
+1. **What is the total sales generated?**
+2. **How many total orders have been placed?**
+3. **What is the total quantity sold?**
+4. **What is the average discount given?**
+5. **Which region generates the highest sales?**
+6. **Which product category contributes the most to total sales?**
+7. **Which products are performing the best?**
+8. **How does sales performance vary by region?**
+9. **How can sales performance be analyzed by salesperson, product, and month?**
+10. **How does the analysis change when different filters are applied?**
+
+---
+
+### 🖥️ 3. Screenshot Demo & Link
+
+#### Dashboard Screenshot
 
 https://github.com/Nivyesh/Sales_Dashboard/blob/main/Sales-Dashboard.png
 
+The dashboard provides an interactive view of:
+
+* 📊 Sales KPIs
+* 🌎 Regional sales performance
+* 🏷️ Category contribution
+* 📦 Product-level performance
+* 👥 Salesperson analysis
+* 📅 Date and month filtering
+* 🔎 Interactive slicers
+* 📋 Detailed transaction data
+
+#### 🔗 Live / Project Link
+
+**Power BI Dashboard:**
+
+
+**GitHub Repository:**
+[View Project Repository](YOUR_GITHUB_REPOSITORY_LINK)
+
+> **Note:** Replace `YOUR_POWER_BI_LINK` with your published Power BI report link and `YOUR_GITHUB_REPOSITORY_LINK` with your GitHub repository URL.
+
 ---
 
-## 🚀 Key Learning Outcomes
+### 📈 Sample Insights
 
-Through this project, I practiced:
+Based on the dashboard:
 
-* Building interactive Power BI dashboards
-* Cleaning and transforming raw data using Power Query
-* Creating DAX measures
-* Designing KPI cards
-* Creating interactive slicers
-* Performing regional and category analysis
-* Creating product-level visualizations
-* Presenting business insights through data visualization
+* **Total Sales:** 16.13M
+* **Total Orders:** 448
+* **Total Quantity:** 2K
+* **Average Discount:** 5.47%
+* **Top Region:** East – approximately 5.3M
+* **Top Category:** Electronics – 62.56% of total sales
 
----
+These insights help management quickly identify high-performing regions, categories, and products and support data-driven sales decisions.
+
 
 ## 👤 Author
 
