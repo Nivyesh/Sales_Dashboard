@@ -198,7 +198,7 @@ The dashboard provides an interactive view of:
 #### 🔗 Live / Project Link
 
 **Power BI Dashboard:**
-
+https://github.com/Nivyesh/Sales_Dashboard/blob/main/Sales_Dashboard_Project.pbix
 
 **GitHub Repository:**
 [View Project Repository](YOUR_GITHUB_REPOSITORY_LINK)
